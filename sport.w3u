@@ -1,127 +1,142 @@
 {
-"name":"ᶾᵇᵒᵡᵀᵛ",
-"author":"ᶾᵇᵒᵡᵀᵛ",
-"info":"Disable HW [] / Disable OpenSL [x] / Buffer 100%",
-"url":"https://raw.githubusercontent.com/kadaltv/w3ubin/Suluk_IPTV/sport.w3u",
-"epg":"https://rebrand.ly/e/p/g",
-"image":"https://c.tenor.com/RfkASlV25joAAAAM/hypnotic-colors.gif",
-"groups":
-[
-{"name":"Programme Live","image":"https://rebrand.ly/p/l/i?r=062F082F202220013A263A24","url":"https://rebrand.ly/p/l/3/u"},
-{"name":"RMC Sport","image":"https://i.ibb.co/Gx7bXGv/RMC.png","groups":
-[
-{"name":"RMC Sport 1","image":"https://cdn.tv-programme.com/pic/chaines/130.png","stations":
-[{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium119/playlist.m3u8??","name":"Flux HD","info":"","image":"https://cdn.tv-programme.com/pic/chaines/130.png","epgId":"C2029.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/4","name":"Flux SD1","info":"","image":"https://cdn.tv-programme.com/pic/chaines/130.png","epgId":"C2029.api.telerama.fr","referer":"https://leet365.cc/fr/1/4","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed04","name":"Flux SD2","info":"","image":"https://cdn.tv-programme.com/pic/chaines/130.png","epgId":"C2029.api.telerama.fr","referer":"https://leet365.cc/fr/2/4","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/4","name":"Flux SD3","info":"","image":"https://cdn.tv-programme.com/pic/chaines/130.png","epgId":"C2029.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"RMC Sport 2","image":"https://cdn.tv-programme.com/pic/chaines/131.png","stations":
-[{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium120/playlist.m3u8??","name":"Flux HD","info":"","image":"https://cdn.tv-programme.com/pic/chaines/131.png","epgId":"C675.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/9","name":"Flux SD1","info":"","image":"https://cdn.tv-programme.com/pic/chaines/131.png","epgId":"C675.api.telerama.fr","referer":"https://leet365.cc/fr/1/9","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed09","name":"Flux SD2","info":"","image":"https://cdn.tv-programme.com/pic/chaines/131.png","epgId":"C675.api.telerama.fr","referer":"https://leet365.cc/fr/2/9","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/9","name":"Flux SD3","info":"","image":"https://cdn.tv-programme.com/pic/chaines/131.png","epgId":"C675.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"RMC Sport 3","image":"https://cdn.tv-programme.com/pic/chaines/132.png","stations":
-[{"embed": true,"url":"http://azrotv.com/m3u8/teledunet/?id=102","name":"Flux HD","info":"","image":"https://cdn.tv-programme.com/pic/chaines/132.png","epgId":"C.api.telerama.fr","referer":"","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/20","name":"Flux SD1","info":"","image":"https://cdn.tv-programme.com/pic/chaines/132.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/1/20","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed20","name":"Flux SD2","info":"","image":"https://cdn.tv-programme.com/pic/chaines/132.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/20","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/20","name":"Flux SD3","info":"","image":"https://cdn.tv-programme.com/pic/chaines/132.png","epgId":"C.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"Live Video","image":"https://i.ytimg.com/vi/EWOH9TnmtXo/maxresdefault.jpg","stations":
-[{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed22","name":"RMC Sport 4","info":"","image":"https://cdn.tv-programme.com/pic/chaines/141.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/22","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed23","name":"RMC Sport Live 5","info":"","image":"https://cdn.tv-programme.com/pic/chaines/150.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/23","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed24","name":"RMC Sport Live 6","info":"","image":"https://cdn.tv-programme.com/pic/chaines/151.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/24","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed25","name":"RMC Sport Live 7","info":"","image":"https://cdn.tv-programme.com/pic/chaines/152.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/25","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed26","name":"RMC Sport Live 8","info":"","image":"https://cdn.tv-programme.com/pic/chaines/153.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/26","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed27","name":"RMC Sport Live 9","info":"","image":"https://cdn.tv-programme.com/pic/chaines/154.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/27","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed28","name":"RMC Sport Live 10","info":"","image":"https://cdn.tv-programme.com/pic/chaines/143.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/28","userAgent":"Googlebot/2.1"}
-]}]},
-{"name":"beIN Sports","image":"https://logowik.com/content/uploads/images/167_bein_sports.jpg","groups":
-[
-{"name":"beIN Sports 1","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png","stations":
-[{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium116/playlist.m3u8??","name":"Flux HD","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png","epgId":"C1290.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/1","name":"Flux SD1","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png","epgId":"C1290.api.telerama.fr","referer":"https://leet365.cc/fr/1/1","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed01","name":"Flux SD2","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png","epgId":"C1290.api.telerama.fr","referer":"https://leet365.cc/fr/2/1","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/1","name":"Flux SD3","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png","epgId":"C1290.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"beIN Sports 2","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png","stations":
-[{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium117/playlist.m3u8??","name":"Flux HD","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png","epgId":"C1304.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/2","name":"Flux SD1","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png","epgId":"C1304.api.telerama.fr","referer":"https://leet365.cc/fr/1/2","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed02","name":"Flux SD2","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png","epgId":"C1304.api.telerama.fr","referer":"https://leet365.cc/fr/2/2","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/2","name":"Flux SD3","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png","epgId":"C1304.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"beIN Sports 3","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png","stations":
-[{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium118/playlist.m3u8??","name":"Flux HD","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png","epgId":"C1335.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/3","name":"Flux SD1","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png","epgId":"C1335.api.telerama.fr","referer":"https://leet365.cc/fr/1/3","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed03","name":"Flux SD2","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png","epgId":"C1335.api.telerama.fr","referer":"https://leet365.cc/fr/2/3","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/3","name":"Flux SD3","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png","epgId":"C1335.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"Live Video","image":"https://i.ytimg.com/vi/EWOH9TnmtXo/maxresdefault.jpg","stations":
-[{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed10","name":"beIN Sports MAX 4","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png","epgId":"C1336.api.telerama.fr","referer":"https://leet365.cc/fr/2/10","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed11","name":"beIN Sports MAX 5","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png","epgId":"C1337.api.telerama.fr","referer":"https://leet365.cc/fr/2/11","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed12","name":"beIN Sports MAX 6","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png","epgId":"C1338.api.telerama.fr","referer":"https://leet365.cc/fr/2/12","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed13","name":"beIN Sports MAX 7","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png","epgId":"C1339.api.telerama.fr","referer":"https://leet365.cc/fr/2/13","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed14","name":"beIN Sports MAX 8","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png","epgId":"C1340.api.telerama.fr","referer":"https://leet365.cc/fr/2/14","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed15","name":"beIN Sports MAX 9","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png","epgId":"C1341.api.telerama.fr","referer":"https://leet365.cc/fr/2/15","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed16","name":"beIN Sports MAX 10","info":"","image":"https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png","epgId":"C1342.api.telerama.fr","referer":"https://leet365.cc/fr/2/16","userAgent":"Googlebot/2.1"}
-]}]},
-{"name":"Canal Plus","image":"https://static.papergeek.fr/2019/10/canal-plus.jpg","groups":
-[
-{"name":"Canal+","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png","stations":
-[{"embed": true,"url":"http://azrotv.com/m3u8/teledunet/?id=103","name":"Flux HD","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png","epgId":"C34.api.telerama.fr","referer":"","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/5","name":"Flux SD1","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png","epgId":"C34.api.telerama.fr","referer":"https://leet365.cc/fr/1/5","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed05","name":"Flux SD2","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png","epgId":"C34.api.telerama.fr","referer":"https://leet365.cc/fr/2/5","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/5","name":"Flux SD3","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png","epgId":"C34.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"Canal+ Décalé","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/30.png","stations":
-[{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium4/playlist.m3u8??","name":"Flux HD","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/30.png","epgId":"C30.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/17","name":"Flux SD1","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/30.png","epgId":"C30.api.telerama.fr","referer":"https://leet365.cc/fr/1/17","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed17","name":"Flux SD2","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/30.png","epgId":"C30.api.telerama.fr","referer":"https://leet365.cc/fr/2/17","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/17","name":"Flux SD3","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/30.png","epgId":"C30.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"Canal+ Sport","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/35.png","stations":
-[{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium122/playlist.m3u8??","name":"Flux HD","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/35.png","epgId":"C35.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://leet365.cc/fr/1/6","name":"Flux SD1","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/35.png","epgId":"C35.api.telerama.fr","referer":"https://leet365.cc/fr/1/6","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed06","name":"Flux SD2","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/35.png","epgId":"C35.api.telerama.fr","referer":"https://leet365.cc/fr/2/6","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://leet365.cc/fr/3/6","name":"Flux SD3","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/35.png","epgId":"C35.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"Live Video","image":"https://i.ytimg.com/vi/EWOH9TnmtXo/maxresdefault.jpg","stations":
-[{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed31","name":"MultiSports 1","info":"","image":"https://img.sport-tv-guide.live/images/tv-station-multisports-1-899.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/31","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed32","name":"MultiSports 2","info":"","image":"https://img.sport-tv-guide.live/images/tv-station-multisports-2-900.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/32","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed33","name":"MultiSports 3","info":"","image":"https://img.sport-tv-guide.live/images/tv-station-multisports-3-901.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/33","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed34","name":"MultiSports 4","info":"","image":"https://img.sport-tv-guide.live/images/tv-station-multisports-4-902.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/34","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed35","name":"MultiSports 5","info":"","image":"https://img.sport-tv-guide.live/images/tv-station-multisports-5-903.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/35","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed36","name":"MultiSports 6","info":"","image":"https://img.sport-tv-guide.live/images/tv-station-multisports-6-904.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/36","userAgent":"Googlebot/2.1"}
-]}]},
-{"name":"Prime Video","image":"https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/0/5/1/1350051_ligue1amazonprimevideo_733392.jpg","stations":
-[{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed20","name":"Multi Live","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/20","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed21","name":"Live 1","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/21","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed22","name":"Live 2","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/22","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed23","name":"Live 3","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/23","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed24","name":"Live 4","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/24","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed25","name":"Live 5","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/25","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed26","name":"Live 6","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/26","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed27","name":"Live 7","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/27","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed28","name":"Live 8","info":"","image":"https://i.ibb.co/pJxjj7X/lpskbo.png","epgId":"C.api.telerama.fr","referer":"https://leet365.cc/fr/2/28","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://sportsonline.to/channels/hd/hd4.php","name":"Live 9 [EU]","info":"","image":"https://assets-fr.imgfoot.com/media/cache/150x150/ligue-1-uber-eats.png","epgId":"C.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://assia4.com/live/spot-liga/?lang=fr","name":"Live 10 [EU]","info":"","image":"https://assets-fr.imgfoot.com/media/cache/150x150/ligue-1-uber-eats.png","epgId":"C.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://assia4.com/live/auttv/?lang=fr","name":"Live 11 [EU]","info":"","image":"https://assets-fr.imgfoot.com/media/cache/150x150/ligue-1-uber-eats.png","epgId":"C.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-]},
-{"name":"Autres","image":"https://w3ubin.com/tB0StJsXi.w3u","stations":
-[{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed18","name":"L'equipe","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1401.png","epgId":"C1401.api.telerama.fr","referer":"https://leet365.cc/fr/2/18","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed07","name":"Eurosport 1","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/76.png","epgId":"C76.api.telerama.fr","referer":"https://leet365.cc/fr/2/7","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://fclecteur.com/footy.php?player=mobile&live=ufeed08","name":"Eurosport 2","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/439.png","epgId":"C439.api.telerama.fr","referer":"https://leet365.cc/fr/2/8","userAgent":"Googlebot/2.1"}
-,{"iembed": true,"url":"http://azrotv.com/m3u8/teledunet/?id=1290","name":"Foot+","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/100.png","epgId":"C100.api.telerama.fr","referer":"","userAgent":"Gecko/20100101"}
-,{"embed": true,"url":"http://azrotv.com/m3u8/teledunet/?id=1291","name":"Infosport+","info":"","image":"https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/94.png","epgId":"C94.api.telerama.fr","referer":"","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://rebrand.ly/b/l/u/e/z/o/o/m/h/d","name":"Blue Zoom","info":"","image":"https://www.teleboy.ch/assets/stations/389/icon320_light.png","epgId":"C.api.telerama.fr","referer":"","userAgent":"Googlebot/2.1"}
-,{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium404/playlist.m3u8??","name":"NBA TV","info":"","image":"http://crawler.mdcgate.com/iptv/logo/3978.png","epgId":"C.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium316/playlist.m3u8??","name":"ESPN U","info":"","image":"http://crawler.mdcgate.com/iptv/logo/231449.png","epgId":"C.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium44/playlist.m3u8??","name":"ESPN","info":"","image":"http://crawler.mdcgate.com/iptv/logo/27543.png","epgId":"C.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://player.licenses4.me/player.php?id=premium45/playlist.m3u8??","name":"ESPN 2","info":"","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/263px-ESPN2_logo.svg.png","epgId":"C.api.telerama.fr","referer":"https://eplayer.click/","userAgent":"Gecko/20100101"}
-,{"isHost": true,"url":"https://rebrand.ly/e/s/p/n/3/h/d","name":"ESPN 3","info":"","image":"http://crawler.mdcgate.com/iptv/logo/8495.png","epgId":"C.api.telerama.fr","referer":"","userAgent":"Gecko/20100101"}
-,{"embed": true,"url":"https://rebrand.ly/3/b/t/v","name":"📲 Chat [Mobile]","info":"","image":"https://www.pngmart.com/files/7/Live-Chat-PNG-Photo.png","epgId":"C.api.telerama.fr","referer":"","userAgent":"Gecko/20100101"}
-]}]}
+ "name":"LIVE SPORT",
+ "author":"ARIESTA",
+ "info":"ARIESTA",
+ "url":"https://raw.githubusercontent.com/kadaltv/w3ubin/Suluk_IPTV/sport.w3u",
+ "epg":"https://rebrand.ly/e/p/g",
+ "image":"https://i.postimg.cc/J0pqRwWR/Live-Sport.jpg",
+ "groups":
+ [
+  {
+   "name":"EPL",
+   "image":"https://upload.wikimedia.org/wikipedia/fr/4/44/MyTF1_Logo_%282013%29.png",
+   "groups":
+   [
+        {"name": "Fulham vs Liverpool 18.30 WIB Minggu",
+        "image": "https://i.postimg.cc/3wCq0XmM/EPL.png",
+        "stations": 
+	[ 
+                {"name":"PREMIER 1","info":"Hocki","image":"https://i.postimg.cc/L4tqd5d0/EPL.png",
+                "url": "http://45.94.28.83/hls/S2.m3u8","referer":"http://hockeyweb.site/"},  
+                {"name":"PREMIER 2","info":"Cycling","image":"https://i.postimg.cc/3rZzddKC/EPL11.jpg",
+                "url":"http://thecyclingentertainment.com/novo/events/23-Crystal-Palace/"},
+                {"name":"PREMIER 3","info":"Techo","image":"https://i.postimg.cc/Fss1b1HJ/EPL2.jpg",
+                "url":"https://nflarcadia.xyz/hls/s2.m3u8","referer":"https://techoreels.com/2021/s5/"},
+                {"name":"PREMIER 4","info":"Star","image":"https://bit.ly/3nnLOS1",            
+                "url":"https://wigistream.to/embed/2d48ofcy",
+                "referer":"https://starlive.xyz/embed.php?id=live4m#http://weakstreams.com/soccer-streams/premier-league/leicester-city-vs-liverpool/"}, 
+
+        {"name": "aa vs bb 18.30 WIB Minggu",
+        "image": "https://i.postimg.cc/3wCq0XmM/EPL.png",
+        "stations": 
+	[
+                
+                {"name":"PREMIER 1","info":"Hocki","image":"https://i.postimg.cc/L4tqd5d0/EPL.png",
+                "url": "http://45.94.28.83/hls/S2.m3u8","referer":"http://hockeyweb.site/"},  
+                {"name":"PREMIER 2","info":"Cycling","image":"https://i.postimg.cc/3rZzddKC/EPL11.jpg",
+                "url":"http://thecyclingentertainment.com/novo/events/23-Crystal-Palace/"},
+                {"name":"PREMIER 3","info":"Techo","image":"https://i.postimg.cc/Fss1b1HJ/EPL2.jpg",
+                "url":"https://nflarcadia.xyz/hls/s2.m3u8","referer":"https://techoreels.com/2021/s5/"},
+                {"name":"PREMIER 4","info":"Star","image":"https://bit.ly/3nnLOS1",            
+                "url":"https://wigistream.to/embed/2d48ofcy",
+                "referer":"https://starlive.xyz/embed.php?id=live4m#http://weakstreams.com/soccer-streams/premier-league/leicester-city-vs-liverpool/"}, 
+
+        {"name": "cc vs dd 18.30 WIB Minggu",
+        "image": "https://i.postimg.cc/3wCq0XmM/EPL.png",
+        "stations": 
+	[
+                
+                {"name":"PREMIER 1","info":"Hocki","image":"https://i.postimg.cc/L4tqd5d0/EPL.png",
+                "url": "http://45.94.28.83/hls/S2.m3u8","referer":"http://hockeyweb.site/"},  
+                {"name":"PREMIER 2","info":"Cycling","image":"https://i.postimg.cc/3rZzddKC/EPL11.jpg",
+                "url":"http://thecyclingentertainment.com/novo/events/23-Crystal-Palace/"},
+                {"name":"PREMIER 3","info":"Techo","image":"https://i.postimg.cc/Fss1b1HJ/EPL2.jpg",
+                "url":"https://nflarcadia.xyz/hls/s2.m3u8","referer":"https://techoreels.com/2021/s5/"},
+                {"name":"PREMIER 4","info":"Star","image":"https://bit.ly/3nnLOS1",            
+                "url":"https://wigistream.to/embed/2d48ofcy",
+                "referer":"https://starlive.xyz/embed.php?id=live4m#http://weakstreams.com/soccer-streams/premier-league/leicester-city-vs-liverpool/"}, 
+
+        {"name": "ff vs gg 18.30 WIB Minggu",
+        "image": "https://i.postimg.cc/3wCq0XmM/EPL.png",
+        "stations": 
+	[
+                
+                {"name":"PREMIER 1","info":"Hocki","image":"https://i.postimg.cc/L4tqd5d0/EPL.png",
+                "url": "http://45.94.28.83/hls/S2.m3u8","referer":"http://hockeyweb.site/"},  
+                {"name":"PREMIER 2","info":"Cycling","image":"https://i.postimg.cc/3rZzddKC/EPL11.jpg",
+                "url":"http://thecyclingentertainment.com/novo/events/23-Crystal-Palace/"},
+                {"name":"PREMIER 3","info":"Techo","image":"https://i.postimg.cc/Fss1b1HJ/EPL2.jpg",
+                "url":"https://nflarcadia.xyz/hls/s2.m3u8","referer":"https://techoreels.com/2021/s5/"},
+                {"name":"PREMIER 4","info":"Star","image":"https://bit.ly/3nnLOS1",            
+                "url":"https://wigistream.to/embed/2d48ofcy",
+                "referer":"https://starlive.xyz/embed.php?id=live4m#http://weakstreams.com/soccer-streams/premier-league/leicester-city-vs-liverpool/"}
+                ]}]},
+                
+ {
+   "name":"ALL LIGA",
+   "image":"https://upload.wikimedia.org/wikipedia/fr/4/44/MyTF1_Logo_%282013%29.png",
+   "groups":
+   [
+        {"name": "hh vs ii 18.30 WIB Minggu",
+        "image": "https://i.postimg.cc/3wCq0XmM/EPL.png",
+        "stations": 
+	[
+                
+                {"name":"PREMIER 1","info":"Hocki","image":"https://i.postimg.cc/L4tqd5d0/EPL.png",
+                "url": "http://45.94.28.83/hls/S2.m3u8","referer":"http://hockeyweb.site/"},  
+                {"name":"PREMIER 2","info":"Cycling","image":"https://i.postimg.cc/3rZzddKC/EPL11.jpg",
+                "url":"http://thecyclingentertainment.com/novo/events/23-Crystal-Palace/"},
+                {"name":"PREMIER 3","info":"Techo","image":"https://i.postimg.cc/Fss1b1HJ/EPL2.jpg",
+                "url":"https://nflarcadia.xyz/hls/s2.m3u8","referer":"https://techoreels.com/2021/s5/"},
+                {"name":"PREMIER 4","info":"Star","image":"https://bit.ly/3nnLOS1",            
+                "url":"https://wigistream.to/embed/2d48ofcy",
+                "referer":"https://starlive.xyz/embed.php?id=live4m#http://weakstreams.com/soccer-streams/premier-league/leicester-city-vs-liverpool/"}, 
+
+        {"name": "jj vs kk 18.30 WIB Minggu",
+        "image": "https://i.postimg.cc/3wCq0XmM/EPL.png",
+        "stations": 
+	[
+                
+                {"name":"PREMIER 1","info":"Hocki","image":"https://i.postimg.cc/L4tqd5d0/EPL.png",
+                "url": "http://45.94.28.83/hls/S2.m3u8","referer":"http://hockeyweb.site/"},  
+                {"name":"PREMIER 2","info":"Cycling","image":"https://i.postimg.cc/3rZzddKC/EPL11.jpg",
+                "url":"http://thecyclingentertainment.com/novo/events/23-Crystal-Palace/"},
+                {"name":"PREMIER 3","info":"Techo","image":"https://i.postimg.cc/Fss1b1HJ/EPL2.jpg",
+                "url":"https://nflarcadia.xyz/hls/s2.m3u8","referer":"https://techoreels.com/2021/s5/"},
+                {"name":"PREMIER 4","info":"Star","image":"https://bit.ly/3nnLOS1",            
+                "url":"https://wigistream.to/embed/2d48ofcy",
+                "referer":"https://starlive.xyz/embed.php?id=live4m#http://weakstreams.com/soccer-streams/premier-league/leicester-city-vs-liverpool/"}, 
+
+        {"name": "ll vs mm 18.30 WIB Minggu",
+        "image": "https://i.postimg.cc/3wCq0XmM/EPL.png",
+        "stations": 
+	[
+                
+                {"name":"PREMIER 1","info":"Hocki","image":"https://i.postimg.cc/L4tqd5d0/EPL.png",
+                "url": "http://45.94.28.83/hls/S2.m3u8","referer":"http://hockeyweb.site/"},  
+                {"name":"PREMIER 2","info":"Cycling","image":"https://i.postimg.cc/3rZzddKC/EPL11.jpg",
+                "url":"http://thecyclingentertainment.com/novo/events/23-Crystal-Palace/"},
+                {"name":"PREMIER 3","info":"Techo","image":"https://i.postimg.cc/Fss1b1HJ/EPL2.jpg",
+                "url":"https://nflarcadia.xyz/hls/s2.m3u8","referer":"https://techoreels.com/2021/s5/"},
+                {"name":"PREMIER 4","info":"Star","image":"https://bit.ly/3nnLOS1",            
+                "url":"https://wigistream.to/embed/2d48ofcy",
+                "referer":"https://starlive.xyz/embed.php?id=live4m#http://weakstreams.com/soccer-streams/premier-league/leicester-city-vs-liverpool/"}, 
+
+        {"name": "nn vs mm 18.30 WIB Minggu",
+        "image": "https://i.postimg.cc/3wCq0XmM/EPL.png",
+        "stations": 
+	[
+                
+                {"name":"PREMIER 1","info":"Hocki","image":"https://i.postimg.cc/L4tqd5d0/EPL.png",
+                "url": "http://45.94.28.83/hls/S2.m3u8","referer":"http://hockeyweb.site/"},  
+                {"name":"PREMIER 2","info":"Cycling","image":"https://i.postimg.cc/3rZzddKC/EPL11.jpg",
+                "url":"http://thecyclingentertainment.com/novo/events/23-Crystal-Palace/"},
+                {"name":"PREMIER 3","info":"Techo","image":"https://i.postimg.cc/Fss1b1HJ/EPL2.jpg",
+                "url":"https://nflarcadia.xyz/hls/s2.m3u8","referer":"https://techoreels.com/2021/s5/"},
+                {"name":"PREMIER 4","info":"Star","image":"https://bit.ly/3nnLOS1",            
+                "url":"https://wigistream.to/embed/2d48ofcy",
+                "referer":"https://starlive.xyz/embed.php?id=live4m#http://weakstreams.com/soccer-streams/premier-league/leicester-city-vs-liverpool/"}
+                ]}]}
 
 
                 
